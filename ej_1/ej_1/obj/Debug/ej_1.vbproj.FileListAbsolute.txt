@@ -1,0 +1,6 @@
+C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ej_1\ej_1\obj\Debug\ej_1.vbprojResolveAssemblyReference.cache
+C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ej_1\ej_1\bin\Debug\ej_1.exe.config
+C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ej_1\ej_1\bin\Debug\ej_1.exe
+C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ej_1\ej_1\bin\Debug\ej_1.pdb
+C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ej_1\ej_1\obj\Debug\ej_1.exe
+C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ej_1\ej_1\obj\Debug\ej_1.pdb
