@@ -1,0 +1,10 @@
+C:\Users\wil\source\repos\Calculadora_inf319\Calculadora_inf319\bin\Debug\Calculadora_inf319.exe.config
+C:\Users\wil\source\repos\Calculadora_inf319\Calculadora_inf319\bin\Debug\Calculadora_inf319.exe
+C:\Users\wil\source\repos\Calculadora_inf319\Calculadora_inf319\bin\Debug\Calculadora_inf319.pdb
+C:\Users\wil\source\repos\Calculadora_inf319\Calculadora_inf319\obj\Debug\Calculadora_inf319.csprojAssemblyReference.cache
+C:\Users\wil\source\repos\Calculadora_inf319\Calculadora_inf319\obj\Debug\Calculadora_inf319.Form1.resources
+C:\Users\wil\source\repos\Calculadora_inf319\Calculadora_inf319\obj\Debug\Calculadora_inf319.Properties.Resources.resources
+C:\Users\wil\source\repos\Calculadora_inf319\Calculadora_inf319\obj\Debug\Calculadora_inf319.csproj.GenerateResource.cache
+C:\Users\wil\source\repos\Calculadora_inf319\Calculadora_inf319\obj\Debug\Calculadora_inf319.csproj.CoreCompileInputs.cache
+C:\Users\wil\source\repos\Calculadora_inf319\Calculadora_inf319\obj\Debug\Calculadora_inf319.exe
+C:\Users\wil\source\repos\Calculadora_inf319\Calculadora_inf319\obj\Debug\Calculadora_inf319.pdb

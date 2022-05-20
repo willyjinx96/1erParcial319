@@ -1,6 +1,0 @@
-C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.exe.config
-C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.exe
-C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ejercicio_2\ejercicio_2\bin\Debug\ejercicio_2.pdb
-C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.csprojResolveAssemblyReference.cache
-C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.exe
-C:\Users\willy\OneDrive\Documentos\SharpDevelop Projects\ejercicio_2\ejercicio_2\obj\Debug\ejercicio_2.pdb
